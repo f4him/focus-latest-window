@@ -1,7 +1,3 @@
-Here is the README in clean Markdown formatting:
-
----
-
 # Steal My Focus
 
 **Steal My Focus** is a GNOME Shell extension that immediately brings any window demanding attention into focus.
