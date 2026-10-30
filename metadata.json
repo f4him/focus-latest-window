@@ -1,7 +1,7 @@
 {
   "description": "Disables the notification for newly opened window and put the newly opened window to focus", 
   "name": "Focus latest window", 
-  "shell-version": ["45", "46", "47"],
+  "shell-version": ["45", "46", "47", "48", "49", "50"],
   "extension-type": "js",
   "url": "https://github.com/f4him/focus-latest-window", 
   "uuid": "focus-latest-window@f4him.github.io", 
